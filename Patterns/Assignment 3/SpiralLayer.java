@@ -1,5 +1,5 @@
 import java.util.*;
-
+// in Spiral Layer we want to consider the position of element and and layer of element
 public class SpiralLayer {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
