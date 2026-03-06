@@ -15,3 +15,10 @@ public class CountNumberOfDivisors {
         System.out.println("the all divisors are : "+count);
     }
 }
+
+
+/*
+enter the number : 
+12
+the all divisors are : 6
+*/
