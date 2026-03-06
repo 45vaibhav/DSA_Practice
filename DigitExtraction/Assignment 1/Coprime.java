@@ -20,3 +20,18 @@ public class Coprime {
         }
     }
 }
+/*
+enter the first number :
+12
+enter the second number :
+18
+not coprime
+
+
+
+enter the first number :
+7
+enter the second number :
+4
+coprime
+*/
