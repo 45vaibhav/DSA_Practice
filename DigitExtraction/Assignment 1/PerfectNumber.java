@@ -20,3 +20,16 @@ public class PerfectNumber {
         }
     }
 }
+
+/*
+enter the number : 
+153
+81
+not perfect
+
+
+enter the number : 
+6
+6
+perfect
+*/
