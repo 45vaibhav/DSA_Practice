@@ -19,3 +19,9 @@ public class PrimeNumber {
         }
     }
 }
+
+/*
+enter the number : 
+23
+it is prime number 
+*/
