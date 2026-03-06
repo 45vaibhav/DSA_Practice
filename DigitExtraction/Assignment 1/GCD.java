@@ -16,3 +16,18 @@ public class GCD {
         System.out.println("GCD is :"+gcd);
     }
 }
+
+/*
+enter the first number :
+12
+enter the second number :
+43
+GCD is :1
+
+
+enter the first number :
+12
+enter the second number :
+24
+GCD is :12
+*/
