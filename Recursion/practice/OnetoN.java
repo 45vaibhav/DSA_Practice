@@ -11,9 +11,9 @@ public class OnetoN {
             return ;
         }
        
-        System.out.print(n+" ");
+       
         fun(n-1);
-       System.out.println();
+    
          System.out.print(n+" ");
     }
 }
@@ -22,10 +22,5 @@ public class OnetoN {
 /*
 enter the number : 
 5
-5 4 3 2 1 
-1
-2
-3
-4
-5
+1 2 3 4 5 
 */
