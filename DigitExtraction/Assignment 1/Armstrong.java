@@ -37,4 +37,9 @@ it is not armstrong numebr
 enter the number :
 1356
 it is not armstrong numebr 
+
+
+enter the number :
+386
+it is not armstrong numebr 
 */
