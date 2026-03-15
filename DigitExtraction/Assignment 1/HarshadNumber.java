@@ -28,4 +28,8 @@ Harshad number
 enter the number : 
 16
 not harshad number 
+
+enter the number : 
+34
+not harshad number
 */
