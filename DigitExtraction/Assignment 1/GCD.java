@@ -30,4 +30,11 @@ enter the first number :
 enter the second number :
 24
 GCD is :12
+
+
+enter the first number :
+34
+enter the second number :
+78
+GCD is :2
 */
