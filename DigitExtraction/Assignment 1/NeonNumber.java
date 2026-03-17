@@ -31,4 +31,8 @@ Neon number
 enter the number : 
 6
 not neon number 
+
+enter the number : 
+546
+not neon number 
 */
