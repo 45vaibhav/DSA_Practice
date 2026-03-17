@@ -39,4 +39,8 @@ Spy number
 Enter the number : 
 4231
 not Spy number
+
+Enter the number : 
+45
+not Spy number 
 */
