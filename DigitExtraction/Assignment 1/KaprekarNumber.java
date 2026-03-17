@@ -29,8 +29,7 @@ enter the number :
 45
 Kaprekar Number 
 
-
 enter the number : 
-40
+41
 not karpekar Number 
 */
