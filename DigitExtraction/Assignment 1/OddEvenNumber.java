@@ -22,4 +22,8 @@ Number is odd
 enter the numeber :
 46
 Number is Even 
+
+enter the numeber :
+1
+Number is odd 
 */
