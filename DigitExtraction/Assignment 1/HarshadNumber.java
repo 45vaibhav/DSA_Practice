@@ -30,6 +30,6 @@ enter the number :
 not harshad number 
 
 enter the number : 
-454
+344
 not harshad number 
 */
