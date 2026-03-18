@@ -29,5 +29,7 @@ enter the number :
 16
 not harshad number 
 
-
+enter the number : 
+454
+not harshad number 
 */
