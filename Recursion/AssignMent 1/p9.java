@@ -24,3 +24,9 @@ public class p9 {
             
     }
 }
+
+/*
+enter the number 
+3
+1 2 0 3 1 
+*/
