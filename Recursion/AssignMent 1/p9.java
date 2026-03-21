@@ -33,4 +33,7 @@ enter the number
 enter the number 
 4
 1 2 0 3 1 4 1 2 0 
+
+//many functions calls
+
 */
