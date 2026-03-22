@@ -26,5 +26,8 @@ Enter the size :
 1
 3 5
 7 9 11
-13 15 17 19
+13 15 17 19  
 */
+
+
+// only odd numbers print in pattern
