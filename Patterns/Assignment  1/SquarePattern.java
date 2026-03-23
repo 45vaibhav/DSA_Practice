@@ -23,5 +23,11 @@ enter the size of the square :
 * * * * *
 * * * * *
 * * * * *
+
+enter the size of the square :
+3
+* * * 
+* * * 
+* * * 
 	
 */
