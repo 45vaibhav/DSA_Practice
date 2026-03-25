@@ -15,3 +15,11 @@ public class PrintArrayUsingrecursion {
         System.out.println(arr[n]);
     }
 }
+
+/*
+2
+4
+6
+7
+0
+*/
