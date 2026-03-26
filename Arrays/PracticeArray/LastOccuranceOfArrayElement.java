@@ -1,6 +1,6 @@
 public class LastOccuranceOfArrayElement {
     public static void main(String args[]){
-        int arr[]={2,13,4,6,13,9,13,0};
+        int arr[]={2,13,4,6,13,9,13,0,13,53};
         int target=13;
         int index=0;
         int last=fun(arr,index,target);
@@ -27,5 +27,5 @@ public class LastOccuranceOfArrayElement {
 
 
 /*
-the last occurance of array element is : 6
+the last occurance of array element is : 8
 */
