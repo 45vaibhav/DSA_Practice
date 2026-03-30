@@ -40,4 +40,10 @@ Enter the size of array :
 Enter the arrray element : 
 1 2 3 2 1
 the Array Palindrome : true
+
+Enter the size of array : 
+4
+Enter the arrray element : 
+1 2 2 1
+the Array Palindrome : true
 */
