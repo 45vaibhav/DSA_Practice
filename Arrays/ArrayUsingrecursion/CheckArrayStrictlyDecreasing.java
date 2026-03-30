@@ -39,4 +39,11 @@ Enter the size of array :
 Enter the arrray element : 
 9 7 5 2
 the Array strictly increasing : true
+
+
+Enter the size of array : 
+5
+Enter the arrray element : 
+5 6 3 2 1
+the Array strictly increasing : false
 */
