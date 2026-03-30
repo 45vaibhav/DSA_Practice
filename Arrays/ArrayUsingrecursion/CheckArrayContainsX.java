@@ -41,4 +41,13 @@ Enter the arrray element :
 enter the target  : 
 3
 the array contaions target  : true
+
+
+Enter the size of array : 
+5
+Enter the arrray element : 
+4 3 7 9 7
+enter the target  : 
+3
+the array contaions target  : true
 */
