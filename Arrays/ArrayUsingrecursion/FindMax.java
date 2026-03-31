@@ -37,4 +37,12 @@ Enter the size of array :
 Enter the arrray element : 
 3 9 1 7
 the Max elemnt in Array is  : 9
+
+
+
+Enter the size of array : 
+4
+Enter the arrray element : 
+12 34 2 5 
+the Max elemnt in Array is  : 34
 */
