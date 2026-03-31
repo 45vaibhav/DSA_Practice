@@ -41,4 +41,11 @@ Enter the size of array :
 Enter the arrray element : 
 1 2 -3 4
 the Array contain negative element  : true
+
+
+Enter the size of array : 
+4
+Enter the arrray element : 
+1 4 3 1
+the Array contain negative element  : false
 */
