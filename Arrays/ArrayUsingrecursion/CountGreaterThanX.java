@@ -39,4 +39,13 @@ Enter the arrray element :
 enter the target  : 
 3
 the count of elements greater than X : 2
+
+
+Enter the size of array : 
+5
+Enter the arrray element : 
+2 4 6 8 3
+enter the target  : 
+4
+the count of elements greater than X : 2
 */
