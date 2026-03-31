@@ -39,4 +39,14 @@ Enter the arrray element :
 enter the k : 
 2
 the count of elements divisible by k is : 3
+
+
+
+Enter the size of array : 
+5 
+Enter the arrray element : 
+3 4 5 6 9
+enter the k : 
+3
+the count of elements divisible by k is : 3
 */
