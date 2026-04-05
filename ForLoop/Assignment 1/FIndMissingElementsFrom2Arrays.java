@@ -44,4 +44,16 @@ enter the size of  second array :
 enter the array elements : 
 1 1 2 2 2 3
 the missing element : 7
+
+
+
+enter the size of  first array : 
+5
+enter the array elements : 
+1 4 4 3 2 
+enter the size of  second array : 
+4
+enter the array elements : 
+1 3 4 4
+the missing element : 2
 */
