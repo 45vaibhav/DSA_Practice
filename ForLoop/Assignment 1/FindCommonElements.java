@@ -50,4 +50,16 @@ enter the size of  second array :
 enter the array elements : 
 2 2 4
 [2, 2, 0, 0]
+
+
+
+enter the size of  first array : 
+4
+enter the array elements : 
+1 2 3 4
+enter the size of  second array : 
+4
+enter the array elements : 
+1 2 3 4
+[1, 2, 3, 4]
 */
