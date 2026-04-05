@@ -42,6 +42,7 @@ enter k :
 2
 elements that frequency Gratere than k is : 2
 
+
 enter the size of array : 
 4
 enter the array elements : 

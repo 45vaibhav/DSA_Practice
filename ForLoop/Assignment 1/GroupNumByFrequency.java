@@ -39,3 +39,20 @@ public class GroupNumByFrequency {
          System.out.println(Arrays.toString(freq2));
     }
 }
+
+
+/*
+enter the size of array : 
+5
+enter the array elements : 
+1 1 2 3 3
+[2, 0, 0, 0, 0]
+[1, 1, 3, 3, 0]
+
+enter the size of array : 
+7
+enter the array elements : 
+1 1  2 2 3 3 6
+[6, 0, 0, 0, 0, 0, 0]
+[1, 1, 2, 2, 3, 3, 0]
+*/
