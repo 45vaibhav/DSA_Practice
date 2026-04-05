@@ -42,6 +42,8 @@ enter k :
 elements that frequency equal to k is : 1
 elements that frequency equal to k is : 1
 
+
+
 enter the size of array : 
 5
 enter the array elements : 
