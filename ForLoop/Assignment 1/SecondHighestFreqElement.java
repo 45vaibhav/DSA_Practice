@@ -37,6 +37,7 @@ public class SecondHighestFreqElement {
             }
             if(count==secondHigh){
                 System.out.println("second max freq element is : "+arr[i]);
+                
             }
         }
     }
