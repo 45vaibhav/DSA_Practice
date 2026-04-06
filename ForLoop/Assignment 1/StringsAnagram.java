@@ -34,4 +34,11 @@ heart
 enter frist string : 
 earth
 true
+
+
+enter frist string : 
+google 
+enter frist string : 
+goggle
+false
 */
