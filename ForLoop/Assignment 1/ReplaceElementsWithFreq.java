@@ -36,4 +36,12 @@ enter the size of array :
 enter the array elements : 
 1 2 2 3
 [1, 2, 2, 1]
+
+
+
+enter the size of array : 
+7
+enter the array elements : 
+1 1 1 2 2 6 8
+[3, 2, 1, 3, 2, 1, 1]
 */
