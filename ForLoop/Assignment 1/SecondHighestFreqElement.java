@@ -26,7 +26,7 @@ public class SecondHighestFreqElement {
                 high=count;
             }
         }
-        System.out.println(secondHigh);
+        // System.out.println(secondHigh);
            
         for(int i=0;i<arr.length;i++){
             int count=0;

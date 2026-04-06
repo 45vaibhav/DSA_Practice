@@ -29,5 +29,10 @@ public class MostFrequentCharInString {
         enter string : 
         apple
         the most frequent element is : p
+
+
+        enter string : 
+        suyashappa
+        the most frequent element is : a
         */
 
