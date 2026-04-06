@@ -27,6 +27,10 @@ public class SecondLeastFrequentElement {
                 secondLeast=least;
                 least=count;
             }
+
+            if(count<secondLeast && count >least){
+                secondLeast=count;
+            }
         }
         System.out.println(secondLeast);
            
@@ -53,4 +57,14 @@ enter the array elements :
 2
 second max freq element is : 1
 second max freq element is : 1
+
+
+
+enter the size of array : 
+6
+enter the array elements : 
+1 2 2 3 3 3
+2
+second max freq element is : 2
+second max freq element is : 2
 */
