@@ -44,4 +44,12 @@ enter the array elements :
 1 2 2 2 3
 [1, 3, 0, 0, 0] 
 
+
+
+enter the size of array : 
+6
+enter the array elements : 
+1 4 4 1 6 9
+[6, 9, 0, 0, 0, 0]
+
 */
