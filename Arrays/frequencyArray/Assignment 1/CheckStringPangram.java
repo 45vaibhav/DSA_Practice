@@ -1,3 +1,5 @@
+// pangram means the string should must contain the all characters from a to z
+
 import java.util.Scanner;
 
 public class CheckStringPangram {
@@ -28,4 +30,9 @@ public class CheckStringPangram {
 enter the string : 
 thequickbrownfoxjumpsoverthelazydog
 true
+
+
+enter the string : 
+fkjrggrghrgur
+false
 */
