@@ -7,29 +7,30 @@ public class CheckArrayContainsX {
         int n=sc.nextInt();
         int arr[]=new int[n];
         int index=0;
-        int count=0;
         System.out.println("Enter the arrray element : ");
         for(int i=0;i<n;i++){
             arr[i]=sc.nextInt();
         }
-        boolean val=false;
+        
         System.out.println("enter the target  : ");
         int target=sc.nextInt();
-        boolean ans=fun(arr,index,n, target,val);
+        boolean ans=fun(arr,index,n, target);
         System.out.println("the array contaions target  : "+ans);
     }
 
-    static boolean fun(int [ ]arr, int index , int n , int target ,  boolean val){
-                    if(n==index){
+    static boolean fun(int [ ]arr, int index , int n , int target ){
+                     boolean val;
+                    if(target==arr[index]){
+                        val=true ;
+                        return val;
+                    }else{
+                        val=false;
+                    }
+                      if(n-1==index){
                         return val;
                     }
 
-                    if(target==arr[index]){
-                        val=true ;
-                        
-                    }
-
-                    return fun(arr, index+1,n,target,val);
+                    return fun(arr, index+1,n,target);
     }
 }
 

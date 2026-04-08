@@ -15,7 +15,7 @@ public class FindSumOfAllDigitsOfElements {
   
       
         int ans=fun(arr,index,n, sum);
-        System.out.println("the array negative element sum is   : "+ans);
+        System.out.println("the array digit  sum is   : "+ans);
     }
 
     static int fun(int [ ]arr, int index , int n , int sum){
@@ -38,5 +38,5 @@ Enter the size of array :
 3
 Enter the arrray element : 
 12 34 5
-the array negative element sum is   : 15
+the array digit  sum is   : 15
 */

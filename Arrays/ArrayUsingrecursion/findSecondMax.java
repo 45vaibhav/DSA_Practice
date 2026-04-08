@@ -25,10 +25,10 @@ public class findSecondMax {
                     }
 
                     if(max < arr[index]){
-                   
+                        secondMax=max;
                        max=arr[index];
                     }
-                    if(max>secondMax && secondMax < arr[index] && arr[index]<max){
+                    else if( secondMax < arr[index] && arr[index]!=max){
                         secondMax=arr[index];
                     }
 

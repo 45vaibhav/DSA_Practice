@@ -8,29 +8,26 @@ public class CheckArrayPalindrome {
         int arr[]=new int[n];
        int index=0;
        int reverse=n-1;
-       boolean val=false;
         System.out.println("Enter the arrray element : ");
         for(int i=0;i<n;i++){
             arr[i]=sc.nextInt();
         }
         
-        boolean ans=fun(arr,index,val,reverse);
+        boolean ans=fun(arr,index,reverse);
         System.out.println("the Array Palindrome : "+ans);
     }
 
-    static boolean fun(int [ ]arr, int index ,   boolean val,int reverse){
-                    if(reverse==index || reverse==index+1){
-                        return val;
+    static boolean fun(int [ ]arr, int index ,int reverse){
+                   boolean val;
+
+                    if(arr[index]!=arr[reverse]){
+                       return false;
+                    }
+                     if(reverse==index || reverse==index+1){
+                        return true;
                     }
 
-                    if(arr[index]==arr[reverse]){
-                       val=true;
-                    }else{
-                        val=false;
-                        return val;
-                    }
-
-                    return fun(arr, index+1,val,reverse-1);
+                    return fun(arr, index+1,reverse-1);
     }
 }
 

@@ -7,20 +7,19 @@ public class CheckNegativeEleOfArray {
         int n=sc.nextInt();
         int arr[]=new int[n];
        int index=0;
-       boolean val=false;
+      
         System.out.println("Enter the arrray element : ");
         for(int i=0;i<n;i++){
             arr[i]=sc.nextInt();
         }
         
-        boolean ans=fun(arr,index,n,val);
+        boolean ans=fun(arr,index,n);
         System.out.println("the Array contain negative element  : "+ans);
     }
 
-    static boolean fun(int [ ]arr, int index , int n ,  boolean val){
-                    if(n-1==index){
-                        return val;
-                    }
+    static boolean fun(int [ ]arr, int index , int n ){
+                     boolean val;
+                   
 
                     if(arr[index]<0){
                        val=true;
@@ -29,8 +28,11 @@ public class CheckNegativeEleOfArray {
                         val=false;
                        
                     }
+                     if(n-1==index){
+                        return val;
+                    }
 
-                    return fun(arr, index+1,n,val);
+                    return fun(arr, index+1,n);
     }
 }
 
