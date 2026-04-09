@@ -32,4 +32,8 @@ enter the string :
 apple
 the most frequent char is : p
 
+
+enter the string : 
+googlee
+the most frequent char is : e
 */
