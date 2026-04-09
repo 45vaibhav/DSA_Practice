@@ -34,4 +34,11 @@ enter the array size :
 enter the array Element : 
 1 1 2 2 2 3
 the unique element  is : 3
+
+
+enter the array size : 
+5
+enter the array Element : 
+3 3 4 5 4
+the unique element is  : 5
 */
