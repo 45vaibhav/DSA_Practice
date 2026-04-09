@@ -37,4 +37,13 @@ enter the array size :
 enter the array Element : 
 1 2 2 3 3 3 4 4 
 output : 2
+
+
+
+enter the array size : 
+6
+enter the array Element : 
+1 2 2 3 3 3  
+{1=1, 2=2, 3=3}
+output : 2
 */
