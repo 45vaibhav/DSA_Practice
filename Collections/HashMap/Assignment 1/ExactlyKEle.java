@@ -39,4 +39,14 @@ enter the array Element :
 enter the K : 
 2
 the value equal to k is : 3
+
+
+
+enter the array size : 
+6
+enter the array Element : 
+1 2 3 5 3 6
+enter the K : 
+2
+the value equal to k is : 3
 */
