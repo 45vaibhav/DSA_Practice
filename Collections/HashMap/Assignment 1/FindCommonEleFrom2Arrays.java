@@ -53,5 +53,5 @@ enter the  2nd array size :
 3
 enter the array Element : 
 2 2 4
-output : [2, 2, 0, 0]
+output : [2, 2, 0, 0];
 */
