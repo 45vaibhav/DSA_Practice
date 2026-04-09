@@ -46,5 +46,5 @@ enter the array size :
 enter the array Element : 
 1 1 2 2 3 5
 freq 1 array [3, 5, 0, 0, 0, 0]
-freq 2 array [1, 2, 0, 0, 0, 0]
+freq 2 array [1, 2, 0, 0, 0, 0];
 */
