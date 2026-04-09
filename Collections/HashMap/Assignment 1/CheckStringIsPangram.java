@@ -27,4 +27,10 @@ public class CheckStringIsPangram {
 enter the string : 
 thequickbrownfoxjumpsoverthelazydog
 the string is pangram  : true
+
+
+
+enter the string :
+hellomynameisvaibhav
+the string is pangram  : false
 */
