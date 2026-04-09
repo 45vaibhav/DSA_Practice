@@ -39,4 +39,11 @@ enter the array size :
 enter the array Element : 
 1 2 2 2 3
 [1, 3, 0, 0, 0, 0]
+
+
+enter the array size : 
+5
+enter the array Element : 
+7 7 5 43 2
+[2, 5, 43, 0, 0, 0]
 */
