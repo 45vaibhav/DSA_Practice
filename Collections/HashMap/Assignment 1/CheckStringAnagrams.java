@@ -42,4 +42,6 @@ dog
 enter the 2nd string : 
 god
 the string is anagram  : true
+goof
+
 */
