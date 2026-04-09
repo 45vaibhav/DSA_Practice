@@ -32,5 +32,5 @@ the string is pangram  : true
 
 enter the string :
 hellomynameisvaibhav
-the string is pangram  : false
+the string is pangram  :it false
 */
