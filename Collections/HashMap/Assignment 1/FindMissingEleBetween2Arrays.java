@@ -49,4 +49,16 @@ enter the  2nd array size :
 enter the array Element : 
 1 1 2 2 2 3
 the missing element in another array is : 7
+
+
+
+enter the 1st array size : 
+4
+enter the 1st array Element : 
+1 2 3 4
+enter the  2nd array size : 
+3
+enter the array Element : 
+2 3 4
+the missing element in another array is : 1
 */
