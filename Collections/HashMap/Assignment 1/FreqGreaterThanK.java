@@ -38,4 +38,13 @@ enter the array Element :
 enter the K : 
 2
 the value greater than k is : 2
+
+
+enter the array size : 
+5
+enter the array Element : 
+1 2 3  3 4
+enter the K : 
+1
+the value greater than k is : 3
 */
