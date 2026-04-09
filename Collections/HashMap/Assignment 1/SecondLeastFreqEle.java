@@ -40,5 +40,5 @@ enter the array size :
 6
 enter the array Element : 
 1 1 2 2 2 3
-output : 1
+output :1
 */
