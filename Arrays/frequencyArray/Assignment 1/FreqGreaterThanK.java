@@ -40,4 +40,13 @@ enter the array elements :
 enter the k : 
 2
 the  freq element greter than k : 2
+
+
+enter the array size : 
+5
+enter the array elements : 
+1 2 3 4 4
+enter the k : 
+1
+the  freq element greter than k : 4
 */
