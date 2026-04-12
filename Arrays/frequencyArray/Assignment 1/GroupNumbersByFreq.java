@@ -56,4 +56,12 @@ enter array elements :
 1 1 2 2 3 5
 freq 1 array elements [3, 5, 0, 0, 0, 0]
 freq 1 array elements [1, 2, 0, 0, 0, 0]
+
+enter the size of 1st array : 
+5
+enter array elements : 
+1 2 2 3
+4
+freq 1 array elements [1, 3, 4, 0, 0]
+freq 1 array elements [2, 0, 0, 0, 0]
 */
