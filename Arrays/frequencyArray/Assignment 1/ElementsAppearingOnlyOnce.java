@@ -35,7 +35,7 @@ public class ElementsAppearingOnlyOnce {
 /*
 enter the array size : 
 6
-enter the array elements : 
+enter the array elementsss : 
 1 1 2 2 2 3
 the  freq element greter than k : 3
 
