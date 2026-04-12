@@ -42,7 +42,7 @@ the  freq element greter than k : 3
 
 enter the array size : 
 5
-enter the array elements : 
+enter the array elementsss : 
 1 6 6 7 7
 the  freq element greter than k : 1
 */
