@@ -32,5 +32,5 @@ the most frequent string is : p
 
 enter the string : 
 goodday
-the most frequent string is : d
+the most frequent string is : ddddd
 */
