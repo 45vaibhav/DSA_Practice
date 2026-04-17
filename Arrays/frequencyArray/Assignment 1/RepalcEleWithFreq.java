@@ -32,9 +32,28 @@ public class RepalcEleWithFreq {
       int fre1_arr[]=new int[freq.length];
        int fre2_arr[]=new int[freq.length];
         for(int i=0;i<freq.length;i++){
-          
+          if(freq[i]==1){
+            fre1_arr[index]=freq[i];
+            index++;
+          }
+          if(freq[i]==2){
+            fre2_arr[index2]=freq[i];
+            index2++;
+          }
         }
+System.out.println(Arrays.toString(fre1_arr));
+System.out.println(Arrays.toString(fre2_arr));
 
         
     }
 }
+
+
+/*
+enter the size of 1st array : 
+4
+enter array elements : 
+1 2 2 4
+[1, 1, 0, 0, 0]
+[2, 0, 0, 0, 0]
+*/
