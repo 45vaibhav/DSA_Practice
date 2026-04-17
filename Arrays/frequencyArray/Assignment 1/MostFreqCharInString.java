@@ -33,4 +33,9 @@ the most frequent string is : p
 enter the string : 
 goodday
 the most frequent string is : ddddd
+
+
+enter the string : 
+vaibhav
+the most frequent string is : a
 */
