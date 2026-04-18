@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class MaxProductOfSubset {
     public static void main(String args[]){
-        int arr[]={-1,2,3,4};
+        int arr[]={2,0,3,-1};
         int product=1;
         int pastSum=1;
         int freq[]=new int[arr.length];
