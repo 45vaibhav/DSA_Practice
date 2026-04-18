@@ -38,4 +38,13 @@ enter the array element :
 18 22 20 21 19
 sorted array is 
 [18, 19, 20, 21, 22]
+
+
+
+enter the size of array : 
+5
+enter the array element : 
+34 12 56 45 23
+sorted array is 
+[12, 23, 34, 45, 56]
 */
