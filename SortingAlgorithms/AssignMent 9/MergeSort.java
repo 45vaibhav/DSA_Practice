@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-import javax.sql.rowset.spi.SyncResolver;
+
 
 public class MergeSort {
     public static void main(String args[]){
