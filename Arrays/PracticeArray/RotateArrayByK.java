@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class RotateArrayByK {
     public static void main(String args[]){
         int arr[]={1,2,3,4,5,6,7};
-        int k=2;
+        int k=4;
 
         int temp[]=new int[arr.length];
         int index=0;
