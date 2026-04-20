@@ -3,9 +3,9 @@ import java.util.Arrays;
 public class UnionFrom2Arrays {
     public static void main(String args[]){
         int arr[]={1,2,3,4,5,6,7,8};
-        int arr2[]={1,2,33,44,45};
+        int arr2[]={1,2,33};
 
-        int max=45;
+        int max=33;
         int index=0;
         int freq[]=new int[max+1];
         int arr3[]=new int[arr.length+arr2.length];
@@ -26,3 +26,7 @@ public class UnionFrom2Arrays {
         System.out.println(Arrays.toString(arr3));
     }
 }
+
+/*
+[1, 2, 3, 4, 5, 6, 7, 8, 33, 0, 0]
+*/
