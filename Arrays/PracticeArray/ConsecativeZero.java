@@ -1,6 +1,6 @@
 public class ConsecativeZero {
     public static void main(String args[]){
-        int arr[]={1,1,0,1,1,1,1,0,0,1,1,1};
+        int arr[]={1,1,0,1,1,1,1,1,1,1,0,0,1,1,1};
         int max=0;
         int count=0;
         for(int i=0;i<arr.length;i++){
@@ -17,5 +17,5 @@ public class ConsecativeZero {
 }
 
 /*
-the max consecative 0 is : 4
+the max consecative 0 is : 7
 */
