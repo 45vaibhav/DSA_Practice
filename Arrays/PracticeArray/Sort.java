@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Sort {
     public static void main(String args[]){
-        int arr[]={1,1,0,0,1,2,2,0};
+        int arr[]={1,1,0,0,1,2,2,0,2,2,2};
 
         for(int i=0;i<arr.length-1;i++){
             int minIndex=i;
@@ -22,5 +22,5 @@ public class Sort {
 }
 
 /*
-[0, 0, 0, 1, 1, 1, 2, 2]
+[0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2]
 */
