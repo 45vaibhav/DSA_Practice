@@ -1,6 +1,6 @@
 public class ArraySumUsingRecursion {
     public static void main(String args[]){
-        int arr[]={4,6,3,8};
+        int arr[]={4,6,3,5,6};
         int index=0;
         int sum=fun(arr,index);
         System.out.println( "the array sum is :"+sum);
@@ -16,5 +16,5 @@ public class ArraySumUsingRecursion {
 }
 
 /*
-the array sum is :21
+the array sum is :24
 */
