@@ -27,4 +27,16 @@ Enter the array Element :
 1 2 3 4 5
 Reverse Array is : 
 5 4 3 2 1 
+
+
+
+enter the size of array : 
+4
+Enter the array Element : 
+5
+3
+2
+8
+Reverse Array is : 
+8 2 3 5 
 */
