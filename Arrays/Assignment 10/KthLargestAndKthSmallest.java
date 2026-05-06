@@ -44,4 +44,13 @@ Enter the array Element :
 [6, 5, 4, 3, 2, 1]
 kth smallest : 5
 kth largest :2
+
+
+enter the size of array : 
+6
+Enter the array Element : 
+23 4 55 6 7 9 5
+[55, 23, 9, 7, 6, 4]
+kth smallest : 23
+kth largest :6
 */
