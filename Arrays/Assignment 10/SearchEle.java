@@ -28,4 +28,11 @@ enter the size of array :
 Enter the array Element : 
 10 20 30 40
 index is : 1
+
+
+enter the size of array : 
+3
+Enter the array Element : 
+20 22 4
+index is : 0
 */
