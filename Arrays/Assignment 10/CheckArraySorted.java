@@ -38,4 +38,11 @@ enter the size of array :
 Enter the array Element : 
 1 2 3 4
 true
+
+
+enter the size of array : 
+5
+Enter the array Element : 
+5 3 1 2 4 7
+false
 */
