@@ -41,5 +41,10 @@ Enter the array Element :
 Odd indices element : [20, 40, 0]
 Even Indices element : [10, 30, 50]
 
-
+enter the size of array : 
+3
+Enter the array Element : 
+11 33 4
+Odd indices element : [33, 0]
+Even Indices element : [11, 4]
 */
