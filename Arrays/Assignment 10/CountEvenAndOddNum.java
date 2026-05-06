@@ -30,4 +30,12 @@ Enter the array Element :
 1 2 3 4 5
 odd Element count is element :3
 even Element count is element :2
+
+
+enter the size of array : 
+5
+Enter the array Element : 
+44 2 11 22 7
+odd Element count is element :2
+even Element count is element :3
 */
