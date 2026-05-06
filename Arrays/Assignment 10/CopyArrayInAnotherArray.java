@@ -30,4 +30,11 @@ enter the size of array :
 Enter the array Element : 
 1 5 9 13
 new array : [1, 5, 9, 13]
+
+
+enter the size of array : 
+3
+Enter the array Element : 
+55 3 22
+new array : [55, 3, 22]
 */ 
