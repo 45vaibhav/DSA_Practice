@@ -41,4 +41,19 @@ Enter the array Element :
 2 : 3
 3 : 1
 4 : 1
+
+
+
+enter the size of array : 
+5
+Enter the array Element : 
+1 1 1 2 7
+0 : 0
+1 : 3
+2 : 1
+3 : 0
+4 : 0
+5 : 0
+6 : 0
+7 : 1
 */
