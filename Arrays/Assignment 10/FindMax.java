@@ -29,4 +29,11 @@ enter the size of array :
 Enter the array Element : 
 1 2 9 5
 Max is : 9
+
+
+enter the size of array : 
+4
+Enter the array Element : 
+22 3 1 5
+Max is : 22s
 */
