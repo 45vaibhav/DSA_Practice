@@ -29,4 +29,11 @@ enter the size of array :
 Enter the array Element : 
 1 2 3 4 5
 [5, 1, 2, 3, 4]
+
+
+enter the size of array : 
+5
+Enter the array Element : 
+99 4 55 2 6
+[6, 99, 4, 55, 2]
 */
