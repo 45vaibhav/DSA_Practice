@@ -31,4 +31,13 @@ Enter the array Element :
 enter k : 
 3
 [3, 4, 5, 1, 2]
+
+
+enter the size of array : 
+4
+Enter the array Element : 
+11 4 55 2
+enter k : 
+2
+[55, 2, 11, 4]
 */
