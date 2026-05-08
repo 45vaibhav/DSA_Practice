@@ -27,4 +27,11 @@ enter the size of array :
 Enter the array Element : 
 1 2 3 4 5
 [2, 3, 4, 5, 1]
+
+
+enter the size of array : 
+5
+Enter the array Element : 
+45 3 4 22 5
+[3, 4, 22, 5, 45]
 */
