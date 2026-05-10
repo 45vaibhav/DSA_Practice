@@ -18,5 +18,5 @@ public class ArraySumUsingRecursion {
 /*
 
 sum of arrays elementsss
-the array sum is :24...........
+the array sum is :24.................
 */
