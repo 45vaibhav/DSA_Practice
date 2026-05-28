@@ -15,5 +15,7 @@ public class ArraysInversion {
 }
 
 /*
+
+fff
 the total array inversion count is : 7
 */
