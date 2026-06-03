@@ -31,7 +31,7 @@ public class SubArraySum {
 }
 
 /*
-Enter the size of Arrrays : 
+Enter the size of Arrraysdd : 
 5
 Enter the array elements : 
 3 1 2 4 6
