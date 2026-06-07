@@ -16,7 +16,7 @@ public class HigestAltitude {
         int index=1;
         int sub=0;
         new_arr[0]=0;
-        for(int i=0;i<arr.length-1;i++){
+        for(int i=0;i<arr.length;i++){
             sub=arr[i]+sub;
              new_arr[index]=sub;
              index++;
@@ -39,6 +39,6 @@ enter the size of Array :
 5
 enter the array element : 
 -5 1 5 0 -7
-[0, -5, -4, 1, 1, 0]
+[0, -5, -4, 1, 1, -6]
 Max altitude : 1
 */
