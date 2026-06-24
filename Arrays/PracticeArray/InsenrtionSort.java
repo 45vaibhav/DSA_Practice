@@ -24,7 +24,7 @@ public class InsenrtionSort {
                 arr[minIndex]=temp;
             }
         }
-        System.out.println("Sorted Array is : ");
+        System.out.println("Sorted Array is  it : ");
         System.out.println(Arrays.toString(arr));
 
     }
