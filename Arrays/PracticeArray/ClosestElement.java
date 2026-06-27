@@ -20,9 +20,9 @@ public class ClosestElement {
             int mid=low+(high-low)/2;
             if(arr[mid]>=target){
                 ans=mid;
-                low=mid+1;
-            }else{
                 high=mid-1;
+            }else{
+                low=mid+1;
             }
 
         }
@@ -33,3 +33,11 @@ public class ClosestElement {
         }
     }
 }
+
+/*
+enter the array elements : 
+2 4 7 9 11
+enter target : 
+5
+ans is : 4
+*/
