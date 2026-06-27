@@ -35,7 +35,7 @@ public class ClosestElement {
 }
 
 /*
-enter the array elementss: 
+enter the array elements:: 
 2 4 7 9 11
 enter target : 
 5
