@@ -23,4 +23,4 @@ static int fun(int arr[], int n,int index){
 }
 
 
-// output is: 2
+// output is: 24
