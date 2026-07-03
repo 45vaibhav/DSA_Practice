@@ -36,7 +36,7 @@ public class ClosestElement {
 
 /*
 enter the array elements:: 
-2 4 7 9 11 48
+2 4 7 9 11 49
 enter the target : 
 5
 ans is : 4
