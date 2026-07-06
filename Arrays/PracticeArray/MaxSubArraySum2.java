@@ -37,5 +37,5 @@ Enter the size of Arrray :
 9
 Enter the array elements : 
 -2 1 -3 4 -1 2 1 -5 4
-Maxxx SubArray sum is : 6
+Maxz SubArray sum is : 6
 */
