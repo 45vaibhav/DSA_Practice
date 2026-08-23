@@ -17,5 +17,5 @@ public class ArraysInversion {
 /*
 
 fff66777
-the total array inversion count is : 7
+the total array inversion count is a : 7
 */
