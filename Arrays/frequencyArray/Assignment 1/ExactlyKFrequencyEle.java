@@ -39,7 +39,7 @@ public class ExactlyKFrequencyEle {
 /*
 enter the array elements : 
 1 1 2 2 2 3
-enter the k : 
+enter the k : is 
 2
 the  freq element greter than k : 1
 
