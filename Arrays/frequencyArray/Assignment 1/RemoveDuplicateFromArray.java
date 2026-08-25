@@ -47,7 +47,7 @@ enter the array elements :
 
 enter the array size : 
 5
-enter the array elements : 
+enter the array elements ss : 
 3 4 5 3 3
 [4, 5, 0, 0, 0, 0]
 */
