@@ -23,4 +23,4 @@ static int fun(int arr[], int n,int index){
 }
 
 
-// output is :kkk: 2
+// output is :kik: 2
