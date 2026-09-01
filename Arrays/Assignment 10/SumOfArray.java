@@ -28,7 +28,7 @@ enter the size of array :
 4
 Enter the array Element : 
 10 20 30 40
-Reverse Array is : 
+Reverse Array is aa: 
 the sum is : 100
 
 enter the size of array : 
