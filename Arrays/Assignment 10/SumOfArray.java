@@ -24,7 +24,7 @@ public class SumOfArray {
 
 
 /*
-enter the size of array : 
+enter the size of array AA: 
 4
 Enter the array Element : 
 10 20 30 40
