@@ -2,7 +2,7 @@ public class OccuranceOfElement {
     public static void main(String args[]){
         int arr[]={2,4,13,7,6,13,5,7};
         int index=0;
-        int n=13;
+        int n=7;
        int last= fun(arr,n,index);
 
    
