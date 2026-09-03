@@ -12,6 +12,7 @@ public class Sort {
                     minIndex=j;
             }
             }
+            //done
             int temp=arr[i];
             arr[i]=arr[minIndex];
             arr[minIndex]=temp;
