@@ -23,7 +23,7 @@ public class Sort {
 
 /*
 
-sorted array of 1s 2s 0s number bffggyp859r
+sorted array of 1s 2s 0s number bffggyp859rj
 [0, 0, 0, 0, 0, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2]
 
 
