@@ -3,4 +3,5 @@ public class p9 {
         System.out.println("done is  work ");
     }
 }
-//donekkhooos
+//output
+
