@@ -29,3 +29,12 @@ public class InsenrtionSort {
 
     }
 }
+
+/*
+enter the size of Array : 
+4
+enter the array elements : 
+1 5 4 2
+Sorted Array is  it : 
+[1, 2, 4, 5]
+*/
