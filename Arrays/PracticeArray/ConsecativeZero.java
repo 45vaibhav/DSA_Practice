@@ -17,5 +17,5 @@ public class ConsecativeZero {
 }
 
 /*
-the max consecative 0 is : 7
+the max consecative 1 is : 7
 */
