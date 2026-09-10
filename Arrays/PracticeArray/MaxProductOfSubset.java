@@ -14,9 +14,11 @@ public class MaxProductOfSubset {
            
     }Arrays.sort(freq);
     System.out.println("the maximum product is : "+freq[freq.length-1]);
+    System.out.println(Arrays.toString(freq));
 }
 }
 
 /*
-the maximum product is : 24
+the maximum product is : 6
+[0, 0, 3, 6]
 */
