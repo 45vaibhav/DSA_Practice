@@ -22,4 +22,6 @@ public class PrintArrayUsingrecursion {
 6
 7
 0
+
+array
 */
