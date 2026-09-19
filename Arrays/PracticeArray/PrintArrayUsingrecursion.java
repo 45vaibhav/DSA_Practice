@@ -23,5 +23,5 @@ public class PrintArrayUsingrecursion {
 7
 0
 
-array is hollowaa
+array is hollowjj
 */
