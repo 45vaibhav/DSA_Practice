@@ -36,7 +36,7 @@ Enter the array elements :
 1 1 1
 the count : 2
 
-Enter the size of Arrray : 
+Enter the size of Arrrays: 
 5
 Enter the array elements : 
 1 3 2 4 6
