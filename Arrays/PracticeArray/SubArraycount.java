@@ -38,7 +38,7 @@ the count : 2
 
 Enter the size of Arrrays: 
 5
-Enter the array elements : 
+Enter the array elementd: 
 1 3 2 4 6
 the count : 3
 */
