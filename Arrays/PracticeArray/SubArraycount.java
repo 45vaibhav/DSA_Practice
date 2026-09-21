@@ -30,7 +30,7 @@ public class SubArraycount {
 }
 
 /*
-Enter the size of Arrrayspp : 
+Enter the size of Arrrayspi: 
 3
 Enter the array elements : 
 1 1 1
