@@ -28,6 +28,6 @@ public class UnionFrom2Arrays {
 }
 
 /*
-the output  is :: g
+the output  is :: game
 [1, 2, 3, 4, 5, 6, 7, 8, 33, 0, 0]
 */
