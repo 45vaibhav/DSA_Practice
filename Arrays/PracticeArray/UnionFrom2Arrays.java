@@ -23,7 +23,7 @@ public class UnionFrom2Arrays {
                 index++;
             }
         }
-        //do it hdhoodjj
+        //do it hdhoodjjkk
         System.out.println(Arrays.toString(arr3));
     }
 }
