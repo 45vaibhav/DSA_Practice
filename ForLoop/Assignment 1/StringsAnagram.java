@@ -38,7 +38,7 @@ true
 
 enter frist string : 
 google 
-enter frist string : 
+enter frist string :: 
 goggle
 false
 */
