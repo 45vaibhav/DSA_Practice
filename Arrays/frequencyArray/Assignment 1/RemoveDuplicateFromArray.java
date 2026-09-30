@@ -40,12 +40,12 @@ public class RemoveDuplicateFromArray {
 enter the array size : 
 5
 enter the array elements : 
-1 2 2 2 3
+1 2 2 2 3 
 [1, 3, 0, 0]
 
 
 
-enter the array size : 
+enter the array size is: 
 5
 enter the array elements ss : 
 3 4 5 3 3
