@@ -20,5 +20,5 @@ public class UniqueEleUsingXOR {
 /*
 3
 output 22
-all done ok jjfkkauu
+all done ok jjfkkpp
 */
