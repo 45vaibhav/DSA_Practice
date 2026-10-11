@@ -18,6 +18,7 @@ public class UniquElement {
 }
 
 /*
+output : 
 3
 4
 */
