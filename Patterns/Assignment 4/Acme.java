@@ -3,6 +3,7 @@ public class Acme {
         int n=13;
         int value=2;
         int number=10;
+        int p=3;
 
         for(int i=1;i<=n;i++){
             int temp=number;
@@ -10,7 +11,8 @@ public class Acme {
             if(i==value){
                 System.out.print(temp+" ");
                 if(i==j){
-                    value=(value+1)+i;
+                    value=value+p;
+                    p++;
                     number+=10;
                 }
                 temp+=10;
@@ -26,6 +28,7 @@ public class Acme {
 
 /*
 *  
+*  
 10 20 
 *  *  *  
 *  *  *  *  
@@ -33,9 +36,9 @@ public class Acme {
 *  *  *  *  *  *  
 *  *  *  *  *  *  *  
 *  *  *  *  *  *  *  *  
-*  *  *  *  *  *  *  *  *  
+30 40 50 60 70 80 90 100 110 
 *  *  *  *  *  *  *  *  *  *  
-30 40 50 60 70 80 90 100 110 120 130 
+*  *  *  *  *  *  *  *  *  *  *  
 *  *  *  *  *  *  *  *  *  *  *  *  
-*  *  *  *  *  *  *  *  *  *  *  *  *  
+*  *  *  *  *  *  *  *  *  *  *  *  * 
 */
