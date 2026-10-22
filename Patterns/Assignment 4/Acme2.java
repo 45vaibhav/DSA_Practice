@@ -28,7 +28,7 @@ public class Acme2 {
                     if(i==j){
                        check=i-q;
                        q--;
-                        number-=5;
+                        number-=5;//mmmm
                     }
                 }else{
                     System.out.print("*  ");
