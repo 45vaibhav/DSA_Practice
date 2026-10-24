@@ -45,7 +45,7 @@ tea
 ANAGRAM
 
 
-Enter first string : 
+Enter first string :ll 
 hood
 Enter second string : 
 gkls
