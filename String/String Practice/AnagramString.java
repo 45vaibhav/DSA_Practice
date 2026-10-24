@@ -38,13 +38,14 @@ public class AnagramString {
 }
 
 /*
+1)
 Enter first string : 
 eat
 Enter second string : 
 tea
 ANAGRAM
 
-
+2)
 Enter first string :ll 
 hood
 Enter second string : 
