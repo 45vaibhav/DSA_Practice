@@ -45,7 +45,7 @@ Enter second string :
 tea
 ANAGRAM
 
-2)
+2)...
 Enter first string :ll 
 hood
 Enter second string : 
