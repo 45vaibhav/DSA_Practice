@@ -38,7 +38,7 @@ public class AnagramString {
 }
 
 /*
-1)
+1),,,
 Enter first string : 
 eat
 Enter second string : 
