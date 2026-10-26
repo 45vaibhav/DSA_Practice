@@ -47,7 +47,7 @@ public class IsomorphicString {
 
 
 /*
-enter the string
+enter the string:
 add
 egg
 TRUE
