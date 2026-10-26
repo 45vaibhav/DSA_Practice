@@ -49,6 +49,6 @@ ANAGRAM
 Enter first string :ll 
 hood
 Enter second string : 
-gkls
+gklsll
 Not Anagram
 */
