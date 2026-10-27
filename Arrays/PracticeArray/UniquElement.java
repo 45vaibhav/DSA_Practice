@@ -18,7 +18,7 @@ public class UniquElement {
 }
 
 /*
-output is fookkk:gjkl[]
+output is fookkk:gjkl[]p
 3
 4
 */
