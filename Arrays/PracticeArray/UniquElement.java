@@ -18,7 +18,7 @@ public class UniquElement {
 }
 
 /*
-output is fookkk:gjkkkhk
+output is fookkk:gjklpp
 3
 4
 */
