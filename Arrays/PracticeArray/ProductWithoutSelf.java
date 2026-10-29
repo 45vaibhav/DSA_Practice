@@ -13,7 +13,7 @@ public class ProductWithoutSelf {
         for (int i = 0; i < n; i++) {
             nums[i] = sc.nextInt();
         }
-//kdjskf
+//kdjskfkk
         int[] arr = new int[n];
         for (int i = 0; i < n; i++) {
             int product = 1;
