@@ -33,7 +33,7 @@ public class ProductWithoutSelf {
 /*
 Enter the Arrays size : 
 4
-Enter the array elements : :
+Enter the array elements : :ll
 1 2 3 4
 Answer is : [24, 12, 8, 6]
 */
