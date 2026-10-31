@@ -35,5 +35,5 @@ Enter the Arrays size :
 4
 Enter the array elements : 9
 1 2 3 4
-Answer is : [24, 12, 8, 6]
+Answer is : [24, 12, 8, 6];;
 */
