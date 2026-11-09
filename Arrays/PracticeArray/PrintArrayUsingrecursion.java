@@ -23,5 +23,6 @@ public class PrintArrayUsingrecursion {
 7
 0
 
-array is hollowjj
+array is all set to go 
+
 */
